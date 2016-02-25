@@ -1,0 +1,48 @@
+#main-container{width:800px; margin:auto;}
+#head-container{width:100%;}
+#head-left{float:left;}
+#head-right{float:right;}
+#mynameis{font-size: 20pt;}
+
+
+#email-container{width:100%;}
+#email-field{float:left; padding-right:10px;}
+#email-value{float:right;}
+
+#phone-container{width:100%;}
+#phone-field{float:left; padding-right:10px;}
+#phone-value{}
+
+#skype-container{width:100%;}
+#skype-field{float:left; padding-right:10px;}
+#skype-value{}
+
+#linkedin-container{width:100%;}
+#linkedin-field{float:left; padding-right:10px;}
+#linkedin-value{}
+
+#locate-container{width:100%;}
+#locate-field{float:left; padding-right:10px;}
+#locate-value{}
+
+#body-container {padding-top: 125px;}
+
+.chapcont{
+	width:100%; 
+	padding-top: 20px;
+	clear: both;
+}
+.chapname{
+	float:left; 
+	width: 25%;
+	font-style: italic; 
+	font-weight: bold;
+}
+.chapvalue{
+	float:right; 
+	width: 75%;
+}
+
+.container{width:100%; clear: both;}
+.cont-left{float:left;  padding-right:10px; font-style: italic;}
+.cont-right{padding-left: 20px;}
